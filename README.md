@@ -5,7 +5,7 @@
 <p><h1>Auto report Instagram accounts ( SPAM BOT ) 😈 </h1>
 <br> ⚠️Note! : We don't Accept any responsibility for any illegal usage.</p>
 
-<h2>007spam-BOT</h2>
+<h2>B1ANN-BOT</h2>
 
 
 <img src="https://i.imgur.com/CifoNw5.jpg" data-canonical-src="https://www.youtube.com/watch?v=JX7fg5HrrSE&t=95s" style="max-width:100%;">
@@ -20,7 +20,7 @@
 <code>python3 bot.py</code>
 
 <h2>💬 Contact</h2>
-<li>You Want Ask About Any Thing Add Me On Discord : @marwan.007#3936</li>
+<li>You Want Ask About Any Thing Add Me On Discord : @bokep</li>
 <hr>
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
@@ -40,7 +40,8 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 ```bash
 pkg install git
 pkg install python
-git clone https://github.com/mrwn007/007spam-BOT.git
+git clone https://github.com/B1ANN/tools-report.git
+
 cd 007spam-BOT
 python3 -m pip install requests
 python3 bot.py
